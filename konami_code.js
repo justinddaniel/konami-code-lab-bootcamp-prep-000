@@ -9,12 +9,12 @@ function okdh(e) {
   if (index === code.length) {
     alert('Congratulations!');
     index = 0;
-  }
+  }}
  else {
   index = 0;
 }
 }
-}
+
 
 function init() {
   const body = document.body
